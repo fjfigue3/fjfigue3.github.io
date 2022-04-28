@@ -1,0 +1,45 @@
+h1 {
+color:red;
+font-family:verdana;
+font-size:8px;
+}
+
+h2{
+color:white;
+font-family:Savoye LET;
+font-size:76px;
+background-color:#ff3870;
+border-style:outset;
+border-with:40px;
+padding:20px;
+}
+
+h3{
+color:blue;
+font-family:Savoye LET;
+font-size:76px;
+background-color:cyan;
+border-style:outset;
+border-with:40px;
+padding:20px;
+}
+
+h4{
+color:cyan;
+font-family:Brush Script MT;
+font-size:28px;
+background-color:blue;
+border-style:outset;
+border-with:40px;
+padding:20px;
+}
+
+p{
+color:hotpink;
+font-family:Brush Script MT;
+font-size:28px;
+background-color:#ffb5ff;
+border-style:outset;
+border-with:40px;
+padding:20px;
+}
